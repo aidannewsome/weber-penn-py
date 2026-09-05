@@ -1,0 +1,42 @@
+{
+  "Quaking Aspen": {
+    "Shape": 7, "BaseSize": 0.4, "Scale": 13, "ScaleV": 3, "Levels": 3, "Ratio": 0.015, "RatioPower": 1.2,
+    "Lobes": 5, "LobeDepth": 0.07, "Flare": 0.6, "0Scale": 1, "0ScaleV": 0, "0BaseSplits": 0,
+    "0Length": 1, "0LengthV": 0, "0Taper": 1, "0SegSplits": 0, "0SplitAngle": 0, "0SplitAngleV": 0, "0CurveRes": 3, "0Curve": 0, "0CurveBack": 0, "0CurveV": 20,
+    "1DownAngle": 60, "1DownAngleV": -50, "1Rotate": 140, "1RotateV": 0, "1Branches": 50, "1Length": 0.3, "1LengthV": 0, "1Taper": 1, "1SegSplits": 0, "1SplitAngle": 0, "1SplitAngleV": 0, "1CurveRes": 5, "1Curve": -40, "1CurveBack": 0, "1CurveV": 50,
+    "2DownAngle": 45, "2DownAngleV": 10, "2Rotate": 140, "2RotateV": 0, "2Branches": 30, "2Length": 0.6, "2LengthV": 0, "2Taper": 1, "2SegSplits": 0, "2SplitAngle": 0, "2SplitAngleV": 0, "2CurveRes": 3, "2Curve": -40, "2CurveBack": 0, "2CurveV": 75,
+    "3DownAngle": 45, "3DownAngleV": 10, "3Rotate": 77, "3RotateV": 0, "3Branches": 10, "3Length": 0, "3LengthV": 0, "3Taper": 1, "3SegSplits": 0, "3SplitAngle": 0, "3SplitAngleV": 0, "3CurveRes": 1, "3Curve": 0, "3CurveBack": 0, "3CurveV": 0,
+    "Leaves": 25, "LeafShape": 0, "LeafScale": 0.17, "LeafScaleX": 1, "AttractionUp": 0.5,
+    "PruneRatio": 0, "PruneWidth": 0.5, "PruneWidthPeak": 0.5, "PrunePowerLow": 0.5, "PrunePowerHigh": 0.5
+  },
+  "Black Tupelo": {
+    "Shape": 4, "BaseSize": 0.2, "Scale": 23, "ScaleV": 5, "Levels": 4, "Ratio": 0.015, "RatioPower": 1.3,
+    "Lobes": 3, "LobeDepth": 0.1, "Flare": 1, "0Scale": 1, "0ScaleV": 0, "0BaseSplits": 0,
+    "0Length": 1, "0LengthV": 0, "0Taper": 1.1, "0SegSplits": 0, "0SplitAngle": 0, "0SplitAngleV": 0, "0CurveRes": 10, "0Curve": 0, "0CurveBack": 0, "0CurveV": 40,
+    "1DownAngle": 60, "1DownAngleV": -40, "1Rotate": 140, "1RotateV": 0, "1Branches": 50, "1Length": 0.3, "1LengthV": 0.05, "1Taper": 1, "1SegSplits": 0, "1SplitAngle": 0, "1SplitAngleV": 0, "1CurveRes": 10, "1Curve": 0, "1CurveBack": 0, "1CurveV": 90,
+    "2DownAngle": 30, "2DownAngleV": 10, "2Rotate": 140, "2RotateV": 0, "2Branches": 25, "2Length": 0.6, "2LengthV": 0.1, "2Taper": 1, "2SegSplits": 0, "2SplitAngle": 0, "2SplitAngleV": 0, "2CurveRes": 10, "2Curve": -10, "2CurveBack": 0, "2CurveV": 150,
+    "3DownAngle": 45, "3DownAngleV": 10, "3Rotate": 140, "3RotateV": 0, "3Branches": 12, "3Length": 0.4, "3LengthV": 0, "3Taper": 1, "3SegSplits": 0, "3SplitAngle": 0, "3SplitAngleV": 0, "3CurveRes": 1, "3Curve": 0, "3CurveBack": 0, "3CurveV": 0,
+    "Leaves": 6, "LeafShape": 0, "LeafScale": 0.3, "LeafScaleX": 0.5, "AttractionUp": 0.5,
+    "PruneRatio": 0, "PruneWidth": 0.5, "PruneWidthPeak": 0.5, "PrunePowerLow": 0.5, "PrunePowerHigh": 0.5
+  },
+  "Weeping Willow": {
+    "Shape": 3, "BaseSize": 0.05, "Scale": 15, "ScaleV": 5, "Levels": 4, "Ratio": 0.03, "RatioPower": 2,
+    "Lobes": 9, "LobeDepth": 0.03, "Flare": 0.75, "0Scale": 1, "0ScaleV": 0, "0BaseSplits": 2,
+    "0Length": 0.8, "0LengthV": 0, "0Taper": 1, "0SegSplits": 0.1, "0SplitAngle": 3, "0SplitAngleV": 0, "0CurveRes": 8, "0Curve": 0, "0CurveBack": 20, "0CurveV": 120,
+    "1DownAngle": 20, "1DownAngleV": 10, "1Rotate": -120, "1RotateV": 30, "1Branches": 25, "1Length": 0.5, "1LengthV": 0.1, "1Taper": 1, "1SegSplits": 0.2, "1SplitAngle": 30, "1SplitAngleV": 10, "1CurveRes": 16, "1Curve": 40, "1CurveBack": 80, "1CurveV": 90,
+    "2DownAngle": 30, "2DownAngleV": 10, "2Rotate": -120, "2RotateV": 30, "2Branches": 10, "2Length": 1.5, "2LengthV": 0, "2Taper": 1, "2SegSplits": 0.2, "2SplitAngle": 45, "2SplitAngleV": 20, "2CurveRes": 12, "2Curve": 0, "2CurveBack": 0, "2CurveV": 0,
+    "3DownAngle": 20, "3DownAngleV": 10, "3Rotate": 140, "3RotateV": 0, "3Branches": 300, "3Length": 0.1, "3LengthV": 0, "3Taper": 1, "3SegSplits": 0, "3SplitAngle": 0, "3SplitAngleV": 0, "3CurveRes": 1, "3Curve": 0, "3CurveBack": 0, "3CurveV": 0,
+    "Leaves": 15, "LeafShape": 0, "LeafScale": 0.12, "LeafScaleX": 0.2, "AttractionUp": -3,
+    "PruneRatio": 1, "PruneWidth": 0.4, "PruneWidthPeak": 0.6, "PrunePowerLow": 0.001, "PrunePowerHigh": 0.5
+  },
+  "CA Black Oak": {
+    "Shape": 2, "BaseSize": 0.05, "Scale": 10, "ScaleV": 10, "Levels": 3, "Ratio": 0.018, "RatioPower": 1.3,
+    "Lobes": 5, "LobeDepth": 0.1, "Flare": 1.2, "0Scale": 1, "0ScaleV": 0, "0BaseSplits": 2,
+    "0Length": 1, "0LengthV": 0, "0Taper": 0.95, "0SegSplits": 0.4, "0SplitAngle": 10, "0SplitAngleV": 0, "0CurveRes": 8, "0Curve": 0, "0CurveBack": 0, "0CurveV": 90,
+    "1DownAngle": 30, "1DownAngleV": -30, "1Rotate": 80, "1RotateV": 0, "1Branches": 40, "1Length": 0.8, "1LengthV": 0.1, "1Taper": 1, "1SegSplits": 0.2, "1SplitAngle": 10, "1SplitAngleV": 10, "1CurveRes": 10, "1Curve": 40, "1CurveBack": -70, "1CurveV": 150,
+    "2DownAngle": 45, "2DownAngleV": 10, "2Rotate": 140, "2RotateV": 0, "2Branches": 120, "2Length": 0.2, "2LengthV": 0.05, "2Taper": 1, "2SegSplits": 0.1, "2SplitAngle": 10, "2SplitAngleV": 10, "2CurveRes": 3, "2Curve": 0, "2CurveBack": 0, "2CurveV": -30,
+    "3DownAngle": 45, "3DownAngleV": 10, "3Rotate": 140, "3RotateV": 0, "3Branches": 0, "3Length": 0.4, "3LengthV": 0, "3Taper": 1, "3SegSplits": 0, "3SplitAngle": 0, "3SplitAngleV": 0, "3CurveRes": 1, "3Curve": 0, "3CurveBack": 0, "3CurveV": 0,
+    "Leaves": 25, "LeafShape": 0, "LeafScale": 0.12, "LeafScaleX": 0.66, "AttractionUp": 0.8,
+    "PruneRatio": 0, "PruneWidth": 0.5, "PruneWidthPeak": 0.5, "PrunePowerLow": 0.5, "PrunePowerHigh": 0.5
+  }
+}
